@@ -1,6 +1,15 @@
-# Language translation tool
+# Language Translation Tool
 
-A Pen created on CodePen.
+This project is a simple web-based language translation tool that allows users to translate text between different languages using a translation API.
 
-Original URL: [https://codepen.io/Sasha-Santhosh/pen/LERxXbK](https://codepen.io/Sasha-Santhosh/pen/LERxXbK).
+## Features
+- Enter text for translation
+- Select source and target languages
+- Displays translated result
+- Copy translated text
 
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Translation API
